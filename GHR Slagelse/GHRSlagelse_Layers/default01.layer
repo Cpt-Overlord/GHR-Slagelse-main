@@ -52,6 +52,51 @@ $grp GenericEntity {
   coords 3658.575 18.844 990.231
   angles 0 -152.939 0
  }
+ {
+  components {
+   MeshObject "{6AC6E76253AD2E86}" {
+    Object "{A0FEC9BA20609F32}Assets/Structures/Agriculture/Barn/Barn_E_01/Barn_E_01.xob"
+   }
+  }
+  coords 2872.536 53.558 3087.818
+  angles 0 -108.105 0
+ }
+ {
+  components {
+   MeshObject "{6AC6E762A383FE40}" {
+    Object "{81550C150410DE6F}Assets/Structures/Agriculture/Barn/Barn_E_02/Barn_E_02.xob"
+   }
+  }
+  coords 2907.168 53.53 3090.895
+  angles 0 74.077 0
+ }
+ {
+  components {
+   MeshObject "{6AC6E7613FDE1556}" {
+    Object "{155E1ABB2221230B}Assets/Structures/Walls/Wooden/WoodenFence_01_4m.xob"
+   }
+  }
+  coords 2904.406 53.38 3085.805
+  angles 0 68.791 0
+ }
+ {
+  components {
+   MeshObject "{6AC6E7613FDE1556}" {
+    Object "{155E1ABB2221230B}Assets/Structures/Walls/Wooden/WoodenFence_01_4m.xob"
+   }
+  }
+  coords 2905.76 53.399 3082.277
+  angles 0 65.286 0
+ }
+ {
+  components {
+   MeshObject "{6AC6E7613FDE1556}" {
+    Object "{155E1ABB2221230B}Assets/Structures/Walls/Wooden/WoodenFence_01_4m.xob"
+   }
+  }
+  coords 2907.349 53.573 3078.776
+  angles 0 26.491 0
+ }
 }
 SCR_DestructibleBuildingEntity : "{00EF1FFDCF60838E}Prefabs/Infrastructure/Terrain Bridge/PipeHidden.et" {
  coords 3072.606 5.257 1412.72
@@ -1383,6 +1428,10 @@ GenericEntity : "{A7F64E4FCF4A9F50}PrefabLibrary/DefaultLibrary/Props/Industrial
  coords 2859.979 25.547 435.403
  angles 0 13.48 0
 }
+SCR_DestructibleBuildingEntity : "{A809E681B08C2DA3}Prefabs/Structures/Houses/Village/Single Floor Buildings/House A Red and Green.et" {
+ coords 2888.028 -0.183 3079.859
+ angles 0 171.109 0
+}
 $grp SCR_DestructibleBuildingEntity : "{ADDA5472F867C249}Prefabs/Structures/Cultural/Castles/Castle_01_Bridge.et" {
  {
   coords 3633.004 3.965 850.263
@@ -1455,6 +1504,10 @@ SCR_DestructibleBuildingEntity : "{C3085C63B543921D}Prefabs/Structures/Houses/To
  }
  coords 1617.509 5.003 1055.977
  angles 0 -101.151 0
+}
+SCR_DestructibleBuildingEntity : "{C373D5359D9F2644}Prefabs/Structures/Agriculture/Barn Large.et" {
+ coords 2884.977 0.282 3105.014
+ angles 0 73.903 0
 }
 SCR_DestructibleBuildingEntity : "{C4CD8909618EB81F}Prefabs/Structures/Houses/Military/Barracks/Armory.et" {
  coords 3700.901 0 915.841
