@@ -179,9 +179,6 @@ Vehicle LAV1 : "{0FBF8F010F81A4E5}Prefabs/Vehicles/Wheeled/LAV25/LAV25.et" {
   SCR_VehicleCameraDataComponent "{216DA82C75CDD94B}" {
    Enabled 0
   }
-  SCR_VehicleDustPerWheel "{5476BC43E4910F64}" {
-   Enabled 0
-  }
   SCR_VehicleFactionAffiliationComponent "{5882CBD9AC741CEC}" {
    Enabled 0
   }
@@ -193,6 +190,9 @@ Vehicle LAV1 : "{0FBF8F010F81A4E5}Prefabs/Vehicles/Wheeled/LAV25/LAV25.et" {
    EnableDamage 0
   }
   VehicleLightPortalComponent "{629299AC2CB201C1}" {
+   Enabled 0
+  }
+  SCR_VehicleDustPerWheel "{5476BC43E4910F64}" {
    Enabled 0
   }
   BaseVehicleNodeComponent "{20FB66C5B2237133}" {

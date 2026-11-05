@@ -3196,4 +3196,42 @@ $grp SplineShapeEntity {
    }
   }
  }
+ {
+  coords 1976.982 26.348 1133.964
+  Points {
+   ShapePoint "{6ACB1DD2D330DA23}" {
+    Position -0.043 0.07 -0.641
+   }
+   ShapePoint "{6ACB1DD2D417422E}" {
+    Position 16.456 0.244 0.833
+   }
+   ShapePoint "{6ACB1DD2D746B273}" {
+    Position 17.06 0.177 11.459
+   }
+   ShapePoint "{6ACB1DD2D6C83A9F}" {
+    Position 11.978 0.086 28.173
+   }
+   ShapePoint "{6ACB1DD2D9776A8A}" {
+    Position -1.227 0.163 27.586
+   }
+   ShapePoint "{6ACB1DD2D98C6B6E}" {
+    Position -5.593 0.001 20.588
+   }
+   ShapePoint "{6ACB1DD2D8EC8F27}" {
+    Position -4.694 0.179 4.341
+   }
+   ShapePoint "{6ACB1DD30DFA2736}" {
+    Position -4.182 0.219 1.079
+   }
+   ShapePoint "{6ACB1DD30F30DDB2}" {
+    Position -2.632 0.211 -0.772
+   }
+  }
+  IsClosed 1
+  {
+   LakeGeneratorEntity : "{1F2254A7C9C8AA57}Prefabs/WEGenerators/Water/Lake/LG_Lake_01.et" {
+    coords 0 0 0
+   }
+  }
+ }
 }
