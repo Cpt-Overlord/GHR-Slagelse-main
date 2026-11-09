@@ -15435,7 +15435,7 @@ $grp PolylineShapeEntity {
   }
   LineColor 0 0 0 0
   {
-   WallGeneratorEntity : "{1EB24898D7135699}Prefabs/WEGenerators/Walls and Rows of Props/Retaining_Walls (YOU WILL HAVE TO MANUALLY ADJUST THEM IF NOT GOING STRAIGHT)/WG_WallGenerator_ConcreteRetainingWall.et" {
+   WallGeneratorEntity {
     Flags 0x100003 0
     coords 0 0 0
     m_iSeed 577
@@ -15498,7 +15498,7 @@ $grp PolylineShapeEntity {
   }
   LineColor 0 0 0 0
   {
-   WallGeneratorEntity : "{1EB24898D7135699}Prefabs/WEGenerators/Walls and Rows of Props/Retaining_Walls (YOU WILL HAVE TO MANUALLY ADJUST THEM IF NOT GOING STRAIGHT)/WG_WallGenerator_ConcreteRetainingWall.et" {
+   WallGeneratorEntity {
     Flags 0x100003 0
     coords 0 0 0
     m_iSeed 15386
@@ -15561,7 +15561,7 @@ $grp PolylineShapeEntity {
   }
   LineColor 0 0 0 0
   {
-   WallGeneratorEntity : "{1EB24898D7135699}Prefabs/WEGenerators/Walls and Rows of Props/Retaining_Walls (YOU WILL HAVE TO MANUALLY ADJUST THEM IF NOT GOING STRAIGHT)/WG_WallGenerator_ConcreteRetainingWall.et" {
+   WallGeneratorEntity {
     Flags 0x100003 0
     coords 0 0 0
     m_iSeed 10729
@@ -15628,7 +15628,7 @@ $grp PolylineShapeEntity {
   }
   LineColor 0 0 0 0
   {
-   WallGeneratorEntity : "{1EB24898D7135699}Prefabs/WEGenerators/Walls and Rows of Props/Retaining_Walls (YOU WILL HAVE TO MANUALLY ADJUST THEM IF NOT GOING STRAIGHT)/WG_WallGenerator_ConcreteRetainingWall.et" {
+   WallGeneratorEntity {
     Flags 0x100003 0
     coords 0 0 0
     m_iSeed 22857
