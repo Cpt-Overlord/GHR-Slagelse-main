@@ -528,9 +528,15 @@ $grp GenericEntity : "{3F8BE66EB83CD81F}Prefabs/Props/Military/H Barrier/Hesco b
   coords 3662.457 0.074 984.437
  }
 }
-SCR_DestructibleBuildingEntity : "{3F91DEEC9C78E473}Prefabs/Structures/Military/Houses/GuardHouse_01/GuardHouse_01.et" {
- coords 1977.975 0.046 1094.268
- angles 0 -10.859 0
+$grp SCR_DestructibleBuildingEntity : "{3F91DEEC9C78E473}Prefabs/Structures/Military/Houses/GuardHouse_01/GuardHouse_01.et" {
+ {
+  coords 1977.975 0.046 1094.268
+  angles 0 -10.859 0
+ }
+ {
+  coords 1777.75 -0 1143.755
+  angles 0 -10.859 0
+ }
 }
 GenericEntity : "{43366695B8CC85A2}Prefabs/Props/Military/H Barrier/Hesco barrier Triple v2.et" {
  coords 2851.378 -0.039 419.606
